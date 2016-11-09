@@ -1,1 +1,1 @@
-lala
+%test github
